@@ -1,0 +1,6 @@
+projectKey=abhinav-aryan-10_demo_60e1d86d-1696-404a-b2c3-5725ad2c1ccf
+serverUrl=http://localhost:9000
+serverVersion=24.12.0.100206
+dashboardUrl=http://localhost:9000/dashboard?id=abhinav-aryan-10_demo_60e1d86d-1696-404a-b2c3-5725ad2c1ccf
+ceTaskId=701918ae-0de1-4ff7-90b5-055b9798b4d8
+ceTaskUrl=http://localhost:9000/api/ce/task?id=701918ae-0de1-4ff7-90b5-055b9798b4d8
